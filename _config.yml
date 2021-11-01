@@ -1,7 +1,7 @@
 # Site settings
-title: Homepage of Yu-Bang Zheng (郑玉棒)
-email: zhengyubang@163.com
-description: Yu-Bang Zheng
+title: Homepage of Wen-Jie Zheng (郑文洁)
+email: wjz1355@163.com
+description: Wen-Jie Zheng
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -10,16 +10,16 @@ description: Yu-Bang Zheng
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: YuBangZheng
+github_username: wjz1355
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/YuBangZheng/yubangzheng.github.io/
+newsourceroot: https://github.com/wjz1355/wjz1355.github.io/
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-duoshuo_shortname: ybzheng
-duoshuo_url: "https://github.com/YuBangZheng/"
+duoshuo_shortname: wjzheng
+duoshuo_url: "https://github.com/wjz1355/"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 #disqus_shortname: pfzuo
 #disqus_url: "http://pfzuo.github.io"
