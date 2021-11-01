@@ -78,20 +78,17 @@ function toggleBibtex(articleid) {
 </pre>
 </div>
 
-* **Wen-Jie Zheng**, Xi-Le Zhao, Yu-Bang Zheng, Zhi-Feng Pang, "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting", _IEEE Geoscience and Remote Sensing Letters_, **accepted**, doi: 10.1109/LGRS.2021.3124804, 2021. [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+* **Wen-Jie Zheng**, Xi-Le Zhao, Yu-Bang Zheng, Zhi-Feng Pang, "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting", _IEEE Geoscience and Remote Sensing Letters_, **accepted**, doi: 10.1109/LGRS.2021.3124804, 2021. [[PDF]](https://wjz1355.github.io/papers/NL-FCTN-wjz.pdf)
 
 
 ---
 
 ### Experiences 
 
-* 03/2021-Current: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
 
-* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2021-Current: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Xi-Le Zhao](https://zhaoxile.github.io/))
 
-* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
-
-* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science (Supervisor: Prof. Chunzhong Li)
+* 09/2017-06/2021: Henan University (HENU); Bachelor student in Information and Computing Science
 
 ---
 
