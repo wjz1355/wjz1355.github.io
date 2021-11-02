@@ -106,9 +106,6 @@ function toggleBibtex(articleid) {
 
 ### Academic Activities
 
-#### Reports
-
-* 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
 #### Reviewer
 
