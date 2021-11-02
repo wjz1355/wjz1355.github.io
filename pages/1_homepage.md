@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <br>**Wen-Jie Zheng** is currently pursuing the master degree (advised by [Prof. Xi-Le Zhao](https://zhaoxile.github.io/) and [Dr. Yu-Bang Zheng](https://yubangzheng.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. Her research interest includes tensor modeling and computing, tensor learning, and high-dimensional data processing. <br> <br> **Email:** <wjz1355@163.com>  <br> **Follow me:** [Researchgate](https://www.researchgate.net/profile/Wen-Jie-Zheng)  &emsp; [GitHub](https://wjz1355.github.io/) <br><br>| &emsp;![image](https://wjz1355.github.io/images/wenjiezheng.jpg)&emsp; |
+| <br>**Wen-Jie Zheng** is currently pursuing the master degree (advised by [Prof. Xi-Le Zhao](https://zhaoxile.github.io/) and [Dr. Yu-Bang Zheng](https://yubangzheng.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. Her research interest includes tensor modeling and computing, tensor learning, and high-dimensional data processing. <br> <br> **Email:** <wjz1355@163.com>  <br> **Follow me:** [Researchgate](https://www.researchgate.net/profile/Wen-Jie-Zheng)  &emsp; [GitHub](https://github.com/wjz1355) <br><br>| &emsp;![image](https://wjz1355.github.io/images/wenjiezheng.jpg)&emsp; |
 
 ### News
 
@@ -96,7 +96,7 @@ function toggleBibtex(articleid) {
 
 *  Academic Scholarship, UESTC, 2021
 *  Special Postgraduate Scholarship of Science, UESTC, 2021
-*  Excellent Graates in Henan, 2021
+*  Excellent Graate in Henan, 2021
 *  Merit Student, HENU, 2018, 2019, and 2020
 
 ---
