@@ -96,7 +96,7 @@ function toggleBibtex(articleid) {
 
 *  Academic Scholarship, UESTC, 2021
 *  Special Postgraduate Scholarship of Science, UESTC, 2021
-*  Excellent Graate in Henan, 2021
+*  Excellent Graduate in Henan, 2021
 *  Merit Student, HENU, 2018, 2019, and 2020
 
 ---
