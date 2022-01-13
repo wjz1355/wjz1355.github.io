@@ -64,19 +64,17 @@ function toggleBibtex(articleid) {
 
 <div id="bib_GRSL2021_NLFCTN" class="BibTeX noshow">
 <pre>
-@article{GRSL2021_NLFCTN,
-  title = {Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting},
-  journal = {IEEE Geoscience and Remote Sensing Letters},
-  volume = { },
-  pages = { },
-  year = {2021},
-  author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Zhi-Feng Pang},
-  note = {doi: 10.1109/LGRS.2021.3124804},
-  month={},
-}
+@ARTICLE{GRSL2021_NLFCTN,
+  author={Zheng, Wen-Jie and Zhao, Xi-Le and Zheng, Yu-Bang and Pang, Zhi-Feng},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Nonlocal Patch-Based Fully Connected Tensor Network Decomposition for Multispectral Image Inpainting}, 
+  year={2022},
+  volume={19},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2021.3124804}}
 </pre>
 </div>
-
 
 ---
 
