@@ -107,6 +107,7 @@ function toggleBibtex(articleid) {
 #### Reviewer
 
 *  IEEE Transactions on Network Science and Engineering
+*  EURASIP Journal on Image and Video Processing
 
 #### Co-authors
 
