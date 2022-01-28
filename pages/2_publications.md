@@ -66,20 +66,3 @@ function toggleBibtex(articleid) {
 }
 </pre>
 </div>
-
-<div id="bib_zhengFCTN2021" class="BibTeX noshow">
-<pre>
-@inproceedings{zhengFCTN2021,
-  title={Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion}, 
-  author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={12},
-  pages={11071-11078},
-  year={2021},  
-}
-</pre>
-</div>
-
-
-
