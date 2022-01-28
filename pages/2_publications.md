@@ -8,7 +8,3 @@ permalink: /publications/
 
 * content
 {:toc}
-
-
-
-
