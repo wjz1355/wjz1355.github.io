@@ -43,3 +43,20 @@ function toggleBibtex(articleid) {
   }
 }
 </script>
+
+* **Wen-Jie Zheng**, Xi-Le Zhao*, Yu-Bang Zheng*, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 8025105. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://wjz1355.github.io/papers/NL-FCTN-wjz.pdf) [[Code]](https://wjz1355.github.io/codes/code_NLFCTN.zip)
+
+<div id="bib_GRSL2021_NLFCTN" class="BibTeX noshow">
+<pre>
+@ARTICLE{GRSL2021_NLFCTN,
+  author={Zheng, Wen-Jie and Zhao, Xi-Le and Zheng, Yu-Bang and Pang, Zhi-Feng},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Nonlocal Patch-Based Fully Connected Tensor Network Decomposition for Multispectral Image Inpainting}, 
+  year={2022},
+  volume={19},
+  number={},
+  pages={1-5}}
+</pre>
+</div>
+
+---
