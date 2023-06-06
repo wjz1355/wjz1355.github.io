@@ -126,14 +126,13 @@ function toggleBibtex(articleid) {
 
 *  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
+---
+
 ### Project
 
 *  [Tensor Network Toolbox](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
 ---
-
-### Academic Activities
-
 
 #### Co-authors
 
