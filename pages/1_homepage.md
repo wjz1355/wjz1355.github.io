@@ -112,6 +112,9 @@ function toggleBibtex(articleid) {
 
 ### Awards and Honors
 
+*  Academic Rising Star Award, UESTC, 2023
+*  Academic Scholarship, UESTC, 2022
+*  Aerospace Science and Technology Scholarship, UESTC, 2022
 *  Academic Scholarship, UESTC, 2021
 *  Special Postgraduate Scholarship of Science, UESTC, 2021
 *  Excellent Graduate in Henan, 2021
