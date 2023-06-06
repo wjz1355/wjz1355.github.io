@@ -135,11 +135,6 @@ function toggleBibtex(articleid) {
 ### Academic Activities
 
 
-#### Reviewer
-
-*  IEEE Transactions on Network Science and Engineering
-*  EURASIP Journal on Image and Video Processing
-
 #### Co-authors
 
 *  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
