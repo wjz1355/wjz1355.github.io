@@ -75,13 +75,28 @@ function toggleBibtex(articleid) {
 
 <div id="bib_ISPRS2023_SSTCR" class="BibTeX noshow">
 <pre>
-@article{ZHENG2023182,
+@article{ISPRS2023_SSTCR,
    author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Jie Lin and Lina Zhuang and Ting-Zhu Huang},
    title = {Spatial-spectral-temporal connective tensor network decomposition for thick cloud removal},
    journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
    volume = {199},
    pages = {182-194},
    year = {2023}}
+</pre>
+</div>
+
+* Li-Yuan Li, Ting-Zhu Huang\*, Yu-Bang Zheng\*, **Wen-Jie Zheng**, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, \"Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5512414, pp. 1-14, 2023. <a href="javascript:toggleBibtex('TGRS2023_TRGFid')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/10125571/)
+
+<div id="bib_TGRS2023_TRGFid" class="BibTeX noshow">
+<pre>
+@ARTICLE{TGRS2023_TRGFid,
+  author={Li, Li-Yuan and Huang, Ting-Zhu and Zheng, Yu-Bang and Zheng, Wen-Jie and Lin, Jie and Wu, Guo-Cheng and Zhao, Xi-Le},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-14}}
 </pre>
 </div>
 ---
