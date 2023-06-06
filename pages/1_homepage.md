@@ -70,7 +70,7 @@ function toggleBibtex(articleid) {
 </pre>
 </div>
 
-* **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng\*, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 8025105. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://wjz1355.github.io/codes/code_NLFCTN.zip)
+* **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng\*, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 8025105. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/codes/code_NLFCTN.zip)
 
 <div id="bib_GRSL2021_NLFCTN" class="BibTeX noshow">
 <pre>
