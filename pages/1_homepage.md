@@ -76,12 +76,12 @@ function toggleBibtex(articleid) {
 <div id="bib_ISPRS2023_SSTCR" class="BibTeX noshow">
 <pre>
 @article{ZHENG2023182,
-title = {Spatial-spectral-temporal connective tensor network decomposition for thick cloud removal},
-journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-volume = {199},
-pages = {182-194},
-year = {2023},
-author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Jie Lin and Lina Zhuang and Ting-Zhu Huang}}
+   author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Jie Lin and Lina Zhuang and Ting-Zhu Huang},
+   title = {Spatial-spectral-temporal connective tensor network decomposition for thick cloud removal},
+   journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+   volume = {199},
+   pages = {182-194},
+   year = {2023}}
 </pre>
 </div>
 ---
