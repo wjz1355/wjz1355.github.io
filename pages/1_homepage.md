@@ -128,9 +128,9 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Project
+### **Projects (Click logos)**
 
-*  [Tensor Network Toolbox](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;< img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250">
 
 ---
 
