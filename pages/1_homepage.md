@@ -128,7 +128,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-### **Projects**
+### Projects
 
 *  [Tensor Network Toolbox](https://github.com/zhaoxile/Tensor-Network-Toolbox)
 
