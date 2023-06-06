@@ -138,6 +138,7 @@ function toggleBibtex(articleid) {
 
 *  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
 *  [Dr. Yu-Bang Zheng](https://yubangzheng.github.io/)
+*  [Dr. Jie Lin](https://jielin96.github.io/)
 *  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
