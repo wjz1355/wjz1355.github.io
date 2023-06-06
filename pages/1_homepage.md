@@ -128,9 +128,9 @@ function toggleBibtex(articleid) {
 
 ---
 
-### **Projects (Click logos)**
+### **Projects**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;< img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250">
+*  [Tensor Network Toolbox](https://github.com/zhaoxile/Tensor-Network-Toolbox)
 
 ---
 
