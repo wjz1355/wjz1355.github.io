@@ -73,7 +73,6 @@ function toggleBibtex(articleid) {
 
 * **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[Code]](https://github.com/zhaoxile/SSTC_CR)
 
-* Li-Yuan Li, Ting-Zhu Huang\*, Yu-Bang Zheng\*, **Wen-Jie Zheng**, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, \"Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5512414, pp. 1-14, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10125571/)
 ---
 
 ### Experiences 
