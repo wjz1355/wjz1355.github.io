@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wen-Jie Zheng (Wenjie Zheng)
+title: Wen-Jie Zheng (郑文洁)
 comments: true
 permalink: /homepage/
 
