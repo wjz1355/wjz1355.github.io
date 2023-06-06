@@ -52,10 +52,6 @@ function toggleBibtex(articleid) {
  
 | <br>**Wen-Jie Zheng** is currently pursuing the master\'s degree (advised by [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. Her research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing. <br> <br> **Email:** <wjz1355@163.com>  <br> **Follow me:** [Researchgate](https://www.researchgate.net/profile/Wen-Jie-Zheng)  &emsp; [GitHub](https://github.com/wjz1355) <br><br>| &emsp;![image](https://wjz1355.github.io/images/wenjiezheng.jpg)&emsp; |
 
-### News
-
-* 2021.10.29: One paper \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\" has been accepted by _**IEEE Geoscience and Remote Sensing Letters**_.
-
 ---
 
 ### Publications
