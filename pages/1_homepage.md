@@ -56,6 +56,20 @@ function toggleBibtex(articleid) {
 
 ### Publications
 
+* **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. <a href="javascript:toggleBibtex('ISPRS2023_SSTCR')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
+
+<div id="bib_ISPRS2023_SSTCR" class="BibTeX noshow">
+<pre>
+@article{ISPRS2023_SSTCR,
+   author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Jie Lin and Lina Zhuang and Ting-Zhu Huang},
+   title = {Spatial-spectral-temporal connective tensor network decomposition for thick cloud removal},
+   journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+   volume = {199},
+   pages = {182-194},
+   year = {2023}}
+</pre>
+</div>
+
 * **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng\*, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 8025105. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://wjz1355.github.io/codes/code_NLFCTN.zip)
 
 <div id="bib_GRSL2021_NLFCTN" class="BibTeX noshow">
@@ -68,20 +82,6 @@ function toggleBibtex(articleid) {
   volume={19},
   number={},
   pages={1-5}}
-</pre>
-</div>
-
-* **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. <a href="javascript:toggleBibtex('ISPRS2023_SSTCR')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
-
-<div id="bib_ISPRS2023_SSTCR" class="BibTeX noshow">
-<pre>
-@article{ISPRS2023_SSTCR,
-   author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Jie Lin and Lina Zhuang and Ting-Zhu Huang},
-   title = {Spatial-spectral-temporal connective tensor network decomposition for thick cloud removal},
-   journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-   volume = {199},
-   pages = {182-194},
-   year = {2023}}
 </pre>
 </div>
 
