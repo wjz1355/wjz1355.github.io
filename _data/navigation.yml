@@ -9,18 +9,12 @@ main:
   - title: "Projects"
     url: "/#-projects" 
 
-  - title: "Preprints"
-    url: "/#-preprints" 
-
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Fundings"
-    url: "/#-fundings"
-    
   - title: "Awards and Honors"
     url: "/#-awards-and-honors"
 
