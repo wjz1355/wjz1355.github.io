@@ -65,7 +65,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 ## 🎤 Reports
 
-- -2023.06-: \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _The sixth National Quantitative Remote Sensing Academic Forum (第六届全国定量遥感学术论坛)_, Chengdu, China (中国成都)
+- *2023.06*: \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", *The sixth National Quantitative Remote Sensing Academic Forum (第六届全国定量遥感学术论坛)*, Chengdu, China (中国成都)
 
 ## ⌨ Reviewer
 
