@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yu-Bang Zheng (郑玉棒) | SWJTU"
+title                    : "Wen-Jie Zheng (郑文洁) | UESTC"
 description              : "<br>"
-repository               : "yubangzheng/yubangzheng.github.io"
+repository               : "wjz1355/wjz1355.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -19,25 +19,28 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
+
+
+
 # Site Author
 author:
-  name             : "<center>Yu-Bang Zheng</center> <center>(郑玉棒)</center>"
+  name             : "<center>Wen-Jie Zheng</center> <center>(郑文洁)</center>"
   avatar           : "images/yubangzhengbig.jpg"
-  bio              : "<center>Assistant Professor in School of Information Science and Technology, Southwest Jiaotong University (SWJTU)<center>"
+  bio              : "<center>Ph.D. student in the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC)<center>"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ"
-  email            : "zhengyubang@163.com"
-  researchgate     : "https://www.researchgate.net/profile/Yu-Bang-Zheng-2"
-  uri              : "https://faculty.swjtu.edu.cn/zhengyubang"
+  googlescholar    : 
+  email            : "wjz1355@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Wen-Jie-Zheng"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yubangzheng"
+  github           : "wjz1355"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,6 +60,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
+
+### Publications
 
 
 # Reading Files
