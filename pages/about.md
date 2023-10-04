@@ -25,19 +25,6 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 🔔 News
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optik</div><img src='images/callforpapers.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*2023.07*: &nbsp; <span style="color:blue">**Call for papers**</span> — Optik Special Issue:
-
-[Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery](https://www.sciencedirect.com/journal/optik/about/call-for-papers#recent-trends-of-math-and-deep-modeling-in-multi-dimensional-image-recovery-theory-models-algorithms-and-applications-vsi-multi-dimensional-image-recovery)
-
-*Edited by* Xi-Le Zhao, Guo-Cheng Wu, Tai-Xiang Jiang, and **Yu-Bang Zheng**
-
-</div>
-</div>
-
-- *2023.08*: &nbsp; One paper is accepted by _**IEEE Geoscience and Remote Sensing Letters**_.  
 - *2023.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.  
 - *2023.04*: &nbsp; One paper is accepted by _**ISPRS Journal of Photogrammetry and Remote Sensing**_. 
 
@@ -46,13 +33,6 @@ My current research interests include tensor modeling and computing, tensor lear
 
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
-
-# 📝 Preprints 
-
-- **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: An Integrated Method for Tensor Network Representation with Efficient Structure Search
-\", _arXiv:2305.14912_, 2023. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf)
 
 # 📄 Publications 
 
