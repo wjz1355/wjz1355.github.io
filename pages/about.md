@@ -54,7 +54,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 🏆 Awards and Honors
 
--  First Prize of Outstanding Paper in the Second Sichuan-Chongqing Science and Technology Conference (<span style="color:red">第二届川渝科技学术大会优秀论文一等奖, 排名第一</span>), Sichuan and Chongqing Associations for Science and Technology, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
+-  Excellent Oral Presentation Award in the sixth National Quantitative Remote Sensing Academic Forum (<span style="color:red">第六届全国定量遥感学术论坛优秀口头报告奖</span>), The Organizing Committee of the sixth National Quantitative Remote Sensing Academic Forum, 2023
 -  Academic Rising Star Award (学术青苗), UESTC, 2023
 -  First-Class Academic Scholarship (学业一等奖学金), UESTC, 2021,2022
 -  Aerospace Science and Technology Scholarship (航天科技奖学金), UESTC, 2022
