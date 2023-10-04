@@ -45,10 +45,10 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 📖 Educations
 
-- *2023.09-Current*: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics
+- *2023.09-Current*: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics<br>
   Supervisor: [Prof. Xi-Le Zhao (赵熙乐教授)](https://zhaoxile.github.io/))
-- *2021.09-2023.06*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics
-  Supervisor: [Prof. Xi-Le Zhao](赵熙乐教授)(https://zhaoxile.github.io/))
+- *2021.09-2023.06*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics<br>
+  Supervisor: [Prof. Xi-Le Zhao (赵熙乐教授)](https://zhaoxile.github.io/)
 - *2017.09-2021.06*: Henan University (HENU); Bachelor student in Information and Computing Science
 
 
@@ -65,7 +65,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 ## 🎤 Reports
 
-- 2023.06: \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _The sixth National Quantitative Remote Sensing Academic Forum (第六届全国定量遥感学术论坛)_, **Chengdu, China (中国成都)**
+- -2023.06-: \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _The sixth National Quantitative Remote Sensing Academic Forum (第六届全国定量遥感学术论坛)_, Chengdu, China (中国成都)
 
 ## ⌨ Reviewer
 
