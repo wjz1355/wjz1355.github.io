@@ -65,9 +65,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 ## 🎤 Reports
 
-- 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
-
-- 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
+- 2023.06: \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _The sixth National Quantitative Remote Sensing Academic Forum (第六届全国定量遥感学术论坛)_, **Chengdu, China (中国成都)**
 
 ## ⌨ Reviewer
 
