@@ -25,6 +25,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 🔔 News
 
+- *2023.11*: &nbsp; One paper is accepted by _**Journal of Scientific Computing**_.  
 - *2023.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.  
 - *2023.04*: &nbsp; One paper is accepted by _**ISPRS Journal of Photogrammetry and Remote Sensing**_. 
 
