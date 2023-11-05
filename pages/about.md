@@ -37,6 +37,8 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 📄 Publications 
 
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, accepted.
+
 - **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
 
 - **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng\*, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, art no. 8025105, pp. 1-5, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
