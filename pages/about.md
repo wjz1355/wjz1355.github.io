@@ -37,7 +37,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 📄 Publications 
 
-- **Wen-Jie Zheng**, Xiao-Xuan Bai, Yu-Bang Zheng, Ya-Ru Fan, Ting-Zhu Huang,  Xi-Le Zhao\*, \"Feature-Domain Fidelity and Tensor Low-Rank Regularization for Cloud Removal in Remote Sensing Images\", _IGARSS 2024_, accepted.
+- **Wen-Jie Zheng**, Xiao-Xuan Bai, Yu-Bang Zheng, Ya-Ru Fan, Ting-Zhu Huang,  Xi-Le Zhao\*, \"Feature-Domain Fidelity and Tensor Low-Rank Regularization for Cloud Removal in Remote Sensing Images\", _IGARSS 2024_.
 
 - **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, vol. 98, art no. 16, 2024.
 
