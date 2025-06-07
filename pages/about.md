@@ -35,7 +35,7 @@ My current research interests include tensor modeling and computing, tensor lear
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
 # 📄 Under Review
-- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\". [[Code]](https://github.com/zhaoxile/SSTC_CR)
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\". [[Code]](https://wjz1355.github.io/code/code_DyBM.rar)
 
 # 📄 Publications 
 
