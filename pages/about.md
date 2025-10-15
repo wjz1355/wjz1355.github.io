@@ -23,21 +23,15 @@ My current research interests include tensor modeling and computing, tensor lear
 
 📧 E-mail: <wjz1355@163.com>
 
-# 🔔 News
-
-- *2023.11*: &nbsp; One paper is accepted by _**Journal of Scientific Computing**_.  
-- *2023.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.  
-- *2023.04*: &nbsp; One paper is accepted by _**ISPRS Journal of Photogrammetry and Remote Sensing**_. 
-
 
 # 🧰 Projects
 
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
-# 📄 Under Review
-- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\". [[Code]](https://wjz1355.github.io/code/code_DyBM.rar)
 
 # 📄 Publications 
+
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", DOI: 10.1109/TCSVT.2025.3595950, 2025. [[Code]](https://wjz1355.github.io/code/code_DyBM.rar)
 
 - **Wen-Jie Zheng**, Xiao-Xuan Bai, Yu-Bang Zheng, Ya-Ru Fan, Ting-Zhu Huang,  Xi-Le Zhao\*, \"Feature-Domain Fidelity and Tensor Low-Rank Regularization for Cloud Removal in Remote Sensing Images\", _IGARSS 2024_.
 
