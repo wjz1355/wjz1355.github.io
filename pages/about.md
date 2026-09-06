@@ -28,10 +28,17 @@ My current research interests include tensor modeling and computing, tensor lear
 
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
+# 📄 Under Review 
+
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Neural Operator- Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Neural Networks and Learning Systems_, submitted. 
 
 # 📄 Publications 
 
-- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", DOI: 10.1109/TCSVT.2025.3595950, 2025. [[Code]](https://wjz1355.github.io/code/code_DyBM.rar)
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Neural Operator- Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2026.3731463. 
+
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Ting-Zhu Huang, \"Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery\", _IEEE Transactions on Multimedia_, doi: 10.1109/TMM.2026.3721314. 
+
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 1, pp. 449-462, 2026. [[Code]](https://wjz1355.github.io/code/code_DyBM.rar)
 
 - **Wen-Jie Zheng**, Xiao-Xuan Bai, Yu-Bang Zheng, Ya-Ru Fan, Ting-Zhu Huang,  Xi-Le Zhao\*, \"Feature-Domain Fidelity and Tensor Low-Rank Regularization for Cloud Removal in Remote Sensing Images\", _IGARSS 2024_.
 
