@@ -28,7 +28,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
-# 📄 Under Review 
+# 📄 Preprint
 
 - **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Neural Operator- Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Neural Networks and Learning Systems_, submitted. 
 
