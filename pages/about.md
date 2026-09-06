@@ -28,9 +28,9 @@ My current research interests include tensor modeling and computing, tensor lear
 
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
-# 📄 Preprint
+# 📝 Preprint
 
-- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Parameterized Convolutional Tensor Representation for Spatio-Irregular Multi-Dimensional Data Recovery\", submitted. 
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Ben-Zheng Li, \"Parameterized Convolutional Tensor Representation for Spatio-Irregular Multi-Dimensional Data Recovery\", submitted. 
 
 # 📄 Publications 
 
