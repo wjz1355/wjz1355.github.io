@@ -30,11 +30,11 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 📄 Preprint
 
-- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Neural Operator- Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", submitted. 
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Parameterized Convolutional Tensor Representation for Spatio-Irregular Multi-Dimensional Data Recovery\", submitted. 
 
 # 📄 Publications 
 
-- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Neural Operator- Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2026.3731463. 
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, doi: 10.1109/TGRS.2026.3731463. 
 
 - **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Ting-Zhu Huang, \"Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery\", _IEEE Transactions on Multimedia_, doi: 10.1109/TMM.2026.3721314. 
 
